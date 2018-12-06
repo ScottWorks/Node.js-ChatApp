@@ -1,8 +1,8 @@
-### Motivation
+## Motivation
 
 This a follow-along tutorial from 'Node.js in Action' that creates a basic chatroom app.
 
-### Getting Started
+## Getting Started
 
 1. Fork then clone this repo
 2. In the command-line navigate to the root of the project folder.
